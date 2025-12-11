@@ -8,7 +8,7 @@ public class oddeven {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
-		printodd(n,5);
+		printodd(n,n);
 		printeven(n,1);
 
 	}
@@ -31,7 +31,7 @@ public class oddeven {
 
 	public static void printeven(int n,int i) {
 		// TODO Auto-generated method stub
-		if(i==n) {
+		if(i>n) {
 			return;
 		}
 		if(i%2==0) {
