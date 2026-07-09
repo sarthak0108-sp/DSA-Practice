@@ -14,10 +14,12 @@
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2785-sort-vowels-in-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
+| [2785-sort-vowels-in-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
