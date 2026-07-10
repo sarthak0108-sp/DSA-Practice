@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0162-find-peak-element) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
 ## Hash Table
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
