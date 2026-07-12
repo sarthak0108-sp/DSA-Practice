@@ -35,4 +35,12 @@
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
