@@ -27,6 +27,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0162-find-peak-element) |
 ## Sliding Window
 |  |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
