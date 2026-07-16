@@ -62,8 +62,13 @@
 | ------- |
 | [0069-sqrtx](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0069-sqrtx) |
 | [0633-sum-of-square-numbers](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
