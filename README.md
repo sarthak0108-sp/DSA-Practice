@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0152-maximum-product-subarray](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
@@ -12,6 +13,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
@@ -19,6 +21,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2390-removing-stars-from-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
@@ -26,6 +29,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
