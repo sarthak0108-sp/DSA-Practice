@@ -6,11 +6,13 @@
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
 ## String
 |  |
@@ -22,6 +24,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2785-sort-vowels-in-a-string) |
 ## Binary Search
