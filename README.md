@@ -8,6 +8,7 @@
 | [0152-maximum-product-subarray](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
 ## Hash Table
 |  |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
