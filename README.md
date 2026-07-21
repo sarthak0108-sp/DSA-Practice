@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -33,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0242-valid-anagram) |
@@ -74,6 +76,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 ## Number Theory
