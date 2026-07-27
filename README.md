@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -55,10 +56,12 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0155-min-stack) |
 | [2390-removing-stars-from-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -80,6 +83,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -100,4 +104,8 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
