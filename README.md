@@ -14,6 +14,7 @@
 | [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0125-valid-palindrome](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0633-sum-of-square-numbers](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Number Theory
 |  |
 | ------- |
