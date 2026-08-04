@@ -54,6 +54,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 ## Sliding Window
 |  |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
