@@ -9,7 +9,7 @@ class Solution {
             while(st.size()>0 && nums[st.peek()]<=nums[idx]){
                 st.pop();
             }
-            if(!st.isEmpty()){
+            if(i<n && !st.isEmpty()){
                 a[idx]=nums[st.peek()];
             }
             st.push(idx);
