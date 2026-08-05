@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Hash Table
@@ -80,6 +81,7 @@
 | [0155-min-stack](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -130,6 +132,7 @@
 | [0042-trapping-rain-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0739-daily-temperatures) |
 ## Interactive
 |  |
 | ------- |
