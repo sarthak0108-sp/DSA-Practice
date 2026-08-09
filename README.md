@@ -150,4 +150,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
