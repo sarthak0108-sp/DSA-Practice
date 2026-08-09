@@ -15,6 +15,7 @@
 | [0162-find-peak-element](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0739-daily-temperatures) |
@@ -61,6 +62,7 @@
 | [0069-sqrtx](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 ## Sliding Window
@@ -143,4 +145,9 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
