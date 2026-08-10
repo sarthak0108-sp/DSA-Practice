@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -158,4 +159,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
