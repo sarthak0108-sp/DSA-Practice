@@ -24,6 +24,7 @@
 | [0496-next-greater-element-i](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0739-daily-temperatures) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -38,6 +39,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0567-permutation-in-string) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
@@ -137,6 +139,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Monotonic Stack
 |  |
@@ -182,5 +185,6 @@
 ## Counting
 |  |
 | ------- |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 <!---LeetCode Topics End-->
