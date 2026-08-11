@@ -26,6 +26,7 @@
 | [0739-daily-temperatures](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0739-daily-temperatures) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 | [0496-next-greater-element-i](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## String
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -176,4 +179,8 @@
 | ------- |
 | [0078-subsets](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0090-subsets-ii) |
+## Counting
+|  |
+| ------- |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 <!---LeetCode Topics End-->
