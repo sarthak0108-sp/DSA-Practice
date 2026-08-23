@@ -27,6 +27,7 @@
 | [0875-koko-eating-bananas](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
+| [2460-apply-operations-to-an-array](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
+| [2460-apply-operations-to-an-array](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -125,6 +127,7 @@
 | [0567-permutation-in-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [2460-apply-operations-to-an-array](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 ## Number Theory
 |  |
