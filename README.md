@@ -57,6 +57,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2418-sort-the-people) |
 | [2785-sort-vowels-in-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2785-sort-vowels-in-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2390-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
