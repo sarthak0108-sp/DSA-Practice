@@ -1,7 +1,7 @@
 class Solution {
     public int[] applyOperations(int[] nums) {
         int n=nums.length;
-        int a[]=new int[n];
+        //int a[]=new int[n];
         for(int i=0;i<n-1;i++){
             if(nums[i]==nums[i+1]){
                 nums[i]=2*nums[i];
@@ -11,10 +11,12 @@ class Solution {
         int j=0;
         for(int i=0;i<n;i++){
             if(nums[i]!=0){
-                a[j]=nums[i];
+                int temp=nums[i];
+                nums[i]=nums[j];
+                nums[j]=temp;
                 j++;
             }
         }
-        return a;
+        return nums;
     }
 }
