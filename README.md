@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0040-combination-sum-ii) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -194,4 +196,8 @@
 | ------- |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
