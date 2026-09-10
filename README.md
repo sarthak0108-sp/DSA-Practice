@@ -39,6 +39,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0567-permutation-in-string) |
@@ -54,6 +55,7 @@
 | [0049-group-anagrams](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -194,10 +196,15 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sarthak0108-sp/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
